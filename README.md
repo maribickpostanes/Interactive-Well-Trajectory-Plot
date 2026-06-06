@@ -19,6 +19,7 @@ To view the interactive plot, follow these steps:
 4. The generated plot will be displayed within the Jupyter Notebook interface.
 
 Alternatively, you can directly view the interactive plot by opening the `Well Trajectory.html` file in a web browser without running the Jupyter Notebook. Please note that running the code in a Jupyter Notebook environment is recommended to fully experience the interactivity and functionality of the plot.
+
 ![Well Trajectory Screenshot](https://github.com/maribickpostanes/Interactive-Well-Trajectory-Plot/assets/127098659/c0d09567-d733-4d2f-8458-6b7c5b605cd8)
 ## Data Credit and Source
 Equinor ASA (formerly Statoil) and the former Volve license partners, ExxonMobil Exploration & Production Norway AS and Bayerngas Norge AS, are credited for providing the Volve dataset under the CC BY 4.0 license.
